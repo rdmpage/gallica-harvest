@@ -77,7 +77,10 @@ $arks = array_unique($arks);
 // print_r($arks);
 
 // test
-$arks = array('bpt6k6556442c');
+
+//$arks = array('bpt6k6556442c');
+
+$arks = array('bpt6k65565345');
 
 $arks = array('bpt6k6555617p');
 
@@ -110,13 +113,25 @@ foreach ($arks as $ark)
 	
 	foreach ($xpath->query('//dc:description') as $node)
 	{
+		// tome
 		if (preg_match('/T(\d+)/', $node->firstChild->nodeValue, $m))
 		{
 			$issue->volume = $m[1];
 		}
+		
+		// fasicule
 		if (preg_match('/FASC(\d+)/', $node->firstChild->nodeValue, $m))
 		{
 			$issue->number = $m[1];
+		}
+		
+		// a?
+		if (preg_match('/A(\d+)/', $node->firstChild->nodeValue, $m))
+		{
+			if (!isset($issue->volume))
+			{
+				$issue->volume = $m[1];
+			}
 		}
 		
 	}
@@ -158,9 +173,13 @@ foreach ($arks as $ark)
 		
 			foreach ($xpath->query('seg/persName', $cell) as $node)
 			{
-				$authorstring = trim($node->firstChild->nodeValue);
+				$authorstring = trim($node->textContent);
 				
-				$authorstring = preg_replace('/\s+\((.*)\)/', ", $1", $authorstring);
+				
+				$authorstring = preg_replace('/\s+\((.*)/', ", $1", $authorstring);
+				$authorstring = preg_replace('/\)/', "", $authorstring);
+				$authorstring = preg_replace('/\.\./', ".", $authorstring);
+				
 				$authorstring = mb_convert_case($authorstring, MB_CASE_TITLE);
 				
 				$reference->authors[] = $authorstring;
@@ -205,7 +224,7 @@ foreach ($arks as $ark)
 		
 		if (isset($issue->number))
 		{
-			$reference->issue = $number;
+			$reference->issue = $issue->number;
 		}
 		
 		// print_r($reference);
