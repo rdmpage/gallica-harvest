@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.002" countResults="373" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/cb34349289k/date</identifier>
+<datestamp>2019-03-22</datestamp>
+<setSpec>gallica:theme:5:59</setSpec>
+<setSpec>gallica:typedoc:periodiques:titres</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/cb34349289k/date</dc:identifier>
+<dc:title>Annales de la Société entomologique de France</dc:title>
+<dc:contributor>Viette, Pierre (1921-2011). Directeur de publication</dc:contributor>
+<dc:creator>Société entomologique de France. Auteur du texte</dc:creator>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:publisher>F. G. Levrault (Paris)</dc:publisher>
+<dc:publisher>Pitois-Levrault et Cie (Paris)</dc:publisher>
+<dc:publisher>Ch. Pitois (Paris)</dc:publisher>
+<dc:publisher>chez le trésorier de la Société (Paris)</dc:publisher>
+<dc:publisher>au siège de la Société (Paris)</dc:publisher>
+<dc:publisher>Le François (Paris)</dc:publisher>
+<dc:publisher>Masson &amp; Cie (Paris)</dc:publisher>
+<dc:publisher>Société entomologique de France (Paris)</dc:publisher>
+<dc:date>1832</dc:date>
+<dc:description>Périodicité :  ; Trimestriel</dc:description>
+<dc:identifier>https://gallica.bnf.frISSN 00379271</dc:identifier>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34349289k</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">texte</dc:type>
+<dc:type xml:lang="fre">publication en série imprimée</dc:type>
+<dc:type xml:lang="eng">printed serial</dc:type>
+<dc:description>Etat de collection : 1832-2002</dc:description>
+<dc:source>Muséum national d'histoire naturelle. Bibliothèques, 2008-139742</dc:source>
+<dc:format>Nombre total de vues :  125079</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>59</sdewey>
+<dewey>5</dewey>
+<ark_press>cb34349289k/date</ark_press>
+<source>Muséum national d'histoire naturelle. Bibliothèques, 2008-139742</source>
+<typedoc>fascicule</typedoc>
+<nqamoyen>99.98</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Annales de la Société entomologique de France</title>
+<date nbIssue="1">1832</date>
+<date nbIssue="1">1833</date>
+<date nbIssue="1">1834</date>
+<date nbIssue="1">1835</date>
+<date nbIssue="1">1836</date>
+<date nbIssue="1">1837</date>
+<date nbIssue="1">1838</date>
+<date nbIssue="1">1839</date>
+<date nbIssue="1">1840</date>
+<date nbIssue="1">1841</date>
+<date nbIssue="1">1842</date>
+<date nbIssue="1">1843</date>
+<date nbIssue="1">1844</date>
+<date nbIssue="1">1845</date>
+<date nbIssue="1">1846</date>
+<date nbIssue="1">1847</date>
+<date nbIssue="1">1848</date>
+<date nbIssue="1">1849</date>
+<date nbIssue="1">1850</date>
+<date nbIssue="1">1851</date>
+<date nbIssue="1">1852</date>
+<date nbIssue="1">1853</date>
+<date nbIssue="1">1854</date>
+<date nbIssue="1">1855</date>
+<date nbIssue="1">1856</date>
+<date nbIssue="1">1857</date>
+<date nbIssue="2">1858</date>
+<date nbIssue="2">1859</date>
+<date nbIssue="2">1860</date>
+<date nbIssue="2">1861</date>
+<date nbIssue="2">1862</date>
+<date nbIssue="2">1863</date>
+<date nbIssue="1">1864</date>
+<date nbIssue="1">1865</date>
+<date nbIssue="2">1866</date>
+<date nbIssue="3">1867</date>
+<date nbIssue="2">1868</date>
+<date nbIssue="1">1869</date>
+<date nbIssue="3">1870</date>
+<date nbIssue="1">1871</date>
+<date nbIssue="7">1872</date>
+<date nbIssue="1">1873</date>
+<date nbIssue="1">1874</date>
+<date nbIssue="2">1875</date>
+<date nbIssue="1">1876</date>
+<date nbIssue="3">1877</date>
+<date nbIssue="1">1878</date>
+<date nbIssue="5">1879</date>
+<date nbIssue="1">1880</date>
+<date nbIssue="2">1881</date>
+<date nbIssue="1">1882</date>
+<date nbIssue="3">1883</date>
+<date nbIssue="4">1884</date>
+<date nbIssue="4">1885</date>
+<date nbIssue="3">1886</date>
+<date nbIssue="4">1887</date>
+<date nbIssue="3">1888</date>
+<date nbIssue="1">1889</date>
+<date nbIssue="1">1890</date>
+<date nbIssue="2">1891</date>
+<date nbIssue="4">1892</date>
+<date nbIssue="3">1893</date>
+<date nbIssue="1">1894</date>
+<date nbIssue="5">1895</date>
+<date nbIssue="4">1896</date>
+<date nbIssue="2">1897</date>
+<date nbIssue="1">1898</date>
+<date nbIssue="5">1899</date>
+<date nbIssue="3">1900</date>
+<date nbIssue="3">1901</date>
+<date nbIssue="2">1902</date>
+<date nbIssue="3">1903</date>
+<date nbIssue="3">1904</date>
+<date nbIssue="3">1905</date>
+<date nbIssue="4">1906</date>
+<date nbIssue="4">1907</date>
+<date nbIssue="4">1908</date>
+<date nbIssue="4">1909</date>
+<date nbIssue="4">1910</date>
+<date nbIssue="4">1911</date>
+<date nbIssue="3">1912</date>
+<date nbIssue="3">1913</date>
+<date nbIssue="4">1914</date>
+<date nbIssue="4">1915</date>
+<date nbIssue="4">1916</date>
+<date nbIssue="3">1917</date>
+<date nbIssue="2">1918</date>
+<date nbIssue="2">1919</date>
+<date nbIssue="3">1920</date>
+<date nbIssue="2">1921</date>
+<date nbIssue="4">1922</date>
+<date nbIssue="3">1923</date>
+<date nbIssue="3">1924</date>
+<date nbIssue="4">1925</date>
+<date nbIssue="4">1926</date>
+<date nbIssue="4">1927</date>
+<date nbIssue="3">1928</date>
+<date nbIssue="4">1929</date>
+<date nbIssue="4">1930</date>
+<date nbIssue="2">1931</date>
+<date nbIssue="4">1932</date>
+<date nbIssue="4">1933</date>
+<date nbIssue="3">1934</date>
+<date nbIssue="3">1935</date>
+<date nbIssue="3">1936</date>
+<date nbIssue="3">1937</date>
+<date nbIssue="1">1938</date>
+<date nbIssue="1">1939</date>
+<date nbIssue="1">1940</date>
+<date nbIssue="3">1941</date>
+<date nbIssue="1">1942</date>
+<date nbIssue="1">1943</date>
+<date nbIssue="1">1944</date>
+<date nbIssue="1">1945</date>
+<date nbIssue="1">1946</date>
+<date nbIssue="1">1947</date>
+<date nbIssue="1">1948</date>
+<date nbIssue="1">1949</date>
+<date nbIssue="1">1950</date>
+<date nbIssue="1">1951</date>
+<date nbIssue="1">1952</date>
+<date nbIssue="1">1953</date>
+<date nbIssue="1">1954</date>
+<date nbIssue="1">1955</date>
+<date nbIssue="1">1956</date>
+<date nbIssue="1">1957</date>
+<date nbIssue="1">1958</date>
+<date nbIssue="1">1959</date>
+<date nbIssue="1">1960</date>
+<date nbIssue="1">1962</date>
+<date nbIssue="1">1963</date>
+<date nbIssue="1">1964</date>
+<date nbIssue="1">1965</date>
+<date nbIssue="2">1966</date>
+<date nbIssue="2">1967</date>
+<date nbIssue="1">1968</date>
+<date nbIssue="1">1969</date>
+<date nbIssue="2">1970</date>
+<date nbIssue="2">1971</date>
+<date nbIssue="2">1972</date>
+<date nbIssue="2">1973</date>
+<date nbIssue="2">1974</date>
+<date nbIssue="2">1975</date>
+<date nbIssue="2">1976</date>
+<date nbIssue="2">1977</date>
+<date nbIssue="1">1978</date>
+<date nbIssue="2">1979</date>
+<date nbIssue="1">1980</date>
+<date nbIssue="1">1981</date>
+<date nbIssue="1">1982</date>
+<date nbIssue="1">1983</date>
+<date nbIssue="1">1984</date>
+<date nbIssue="1">1985</date>
+<date nbIssue="1">1986</date>
+<date nbIssue="4">1987</date>
+<date nbIssue="1">1988</date>
+<date nbIssue="4">1989</date>
+<date nbIssue="4">1990</date>
+<date nbIssue="4">1991</date>
+<date nbIssue="4">1992</date>
+<date nbIssue="4">1993</date>
+<date nbIssue="4">1994</date>
+<date nbIssue="4">1995</date>
+<date nbIssue="4">1996</date>
+<date nbIssue="4">1997</date>
+<date nbIssue="4">1998</date>
+<date nbIssue="4">1999</date>
+<date nbIssue="4">2000</date>
+<date nbIssue="3">2001</date>
+<date nbIssue="3">2002</date>
+<first_indexation_date>06/12/2010</first_indexation_date>
+</results>

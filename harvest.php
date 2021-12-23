@@ -2,6 +2,7 @@
 
 
 
+//----------------------------------------------------------------------------------------
 function get($url, $format = '')
 {
 	
@@ -32,6 +33,8 @@ function get($url, $format = '')
 	return $response;
 }
 
+//----------------------------------------------------------------------------------------
+
 $basedir = dirname(__FILE__);
 
 $count = 1;
@@ -39,7 +42,8 @@ $count = 1;
 
 // base id for journal
 
-$base_ark = 'cb34378174n';
+$base_ark = 'cb34378174n'; // Bulletin de la Société d'histoire naturelle de Toulouse
+$base_ark = 'cb34349289k'; // Annales de la Société entomologique de France
 
 $cache_dir = $basedir . '/' . $base_ark;
 
