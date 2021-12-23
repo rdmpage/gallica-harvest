@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.023" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k6555849b</identifier>
+<datestamp>2020-01-06</datestamp>
+<setSpec>gallica:corpus:MidiPyren1</setSpec>
+<setSpec>gallica:corpus:RsAlis000</setSpec>
+<setSpec>gallica:corpus:RsAlis013</setSpec>
+<setSpec>gallica:theme:5:50</setSpec>
+<setSpec>gallica:typedoc:periodiques:fascicules</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6555849b</dc:identifier>
+<dc:date>1930-01</dc:date>
+<dc:description> janvier 1930</dc:description>
+<dc:description>1930/01 (A65,T59,FASC1)-1930/03.</dc:description>
+<dc:description/>
+<dc:title>Bulletin de la Société d'histoire naturelle de Toulouse</dc:title>
+<dc:creator>Société d'histoire naturelle (Toulouse). Auteur du texte</dc:creator>
+<dc:publisher> (Toulouse)</dc:publisher>
+<dc:type xml:lang="fre">texte</dc:type>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">publication en série imprimée</dc:type>
+<dc:type xml:lang="eng">printed serial</dc:type>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34378174n</dc:relation>
+<dc:source> Bibliothèques de l'Université Paul Sabatier / Toulouse, 2013-296172</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:relation>http://gallica.bnf.fr/ark:/12148/cb34378174n/date</dc:relation>
+<dc:description>Appartient à l’ensemble documentaire : MidiPyren1</dc:description>
+<dc:description>Appartient à l’ensemble documentaire : RsAlis000</dc:description>
+<dc:description>Appartient à l’ensemble documentaire : RsAlis013</dc:description>
+<dc:description>Appartient à l’ensemble documentaire : RsAlis032</dc:description>
+<dc:format>Nombre total de vues :  46447</dc:format>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>50</sdewey>
+<dewey>5</dewey>
+<source> Bibliothèques de l'Université Paul Sabatier / Toulouse, 2013-296172</source>
+<typedoc>fascicule</typedoc>
+<nqamoyen>99.93</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Bulletin de la Société d'histoire naturelle de Toulouse</title>
+<date nbIssue="1">1930-01</date>
+<first_indexation_date>11/11/2013</first_indexation_date>
+</results>

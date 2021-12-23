@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.091" countResults="227" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/cb34378174n/date</identifier>
+<datestamp>2020-01-06</datestamp>
+<setSpec>gallica:corpus:MidiPyren1</setSpec>
+<setSpec>gallica:corpus:RsAlis000</setSpec>
+<setSpec>gallica:corpus:RsAlis013</setSpec>
+<setSpec>gallica:theme:5:50</setSpec>
+<setSpec>gallica:typedoc:periodiques:titres</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/cb34378174n/date</dc:identifier>
+<dc:title>Bulletin de la Société d'histoire naturelle de Toulouse</dc:title>
+<dc:description>Variante(s) de titre : Bulletin de la Société d'histoire naturelle et des sciences biologiques et énergetiques de Toulouse</dc:description>
+<dc:description>Variante(s) de titre : Bulletin trimestriel de la Société d'histoire naturelle et des sciences biologiques et énergétiques de Toulouse</dc:description>
+<dc:description>Variante(s) de titre : Bulletin trimestriel - Société d'histoire naturelle et des sciences biologiques et énergétiques de Toulouse</dc:description>
+<dc:creator>Société d'histoire naturelle (Toulouse). Auteur du texte</dc:creator>
+<dc:publisher> (Toulouse)</dc:publisher>
+<dc:date>1866</dc:date>
+<dc:identifier>https://gallica.bnf.frISSN 07584113</dc:identifier>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34378174n</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">texte</dc:type>
+<dc:type xml:lang="fre">publication en série imprimée</dc:type>
+<dc:type xml:lang="eng">printed serial</dc:type>
+<dc:source> Bibliothèques de l'Université Paul Sabatier / Toulouse, 2013-296172</dc:source>
+<dc:description>Appartient à l’ensemble documentaire : MidiPyren1</dc:description>
+<dc:description>Appartient à l’ensemble documentaire : RsAlis000</dc:description>
+<dc:description>Appartient à l’ensemble documentaire : RsAlis013</dc:description>
+<dc:description>Appartient à l’ensemble documentaire : RsAlis032</dc:description>
+<dc:format>Nombre total de vues :  46447</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>50</sdewey>
+<dewey>5</dewey>
+<ark_press>cb34378174n/date</ark_press>
+<source> Bibliothèques de l'Université Paul Sabatier / Toulouse, 2013-296172</source>
+<typedoc>fascicule</typedoc>
+<nqamoyen>99.93</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Bulletin de la Société d'histoire naturelle de Toulouse</title>
+<date nbIssue="1">1866</date>
+<date nbIssue="1">1867</date>
+<date nbIssue="1">1868</date>
+<date nbIssue="2">1869</date>
+<date nbIssue="2">1870</date>
+<date nbIssue="1">1871</date>
+<date nbIssue="2">1872</date>
+<date nbIssue="1">1873</date>
+<date nbIssue="1">1874</date>
+<date nbIssue="1">1875</date>
+<date nbIssue="1">1876</date>
+<date nbIssue="1">1878</date>
+<date nbIssue="1">1879</date>
+<date nbIssue="1">1880</date>
+<date nbIssue="1">1881</date>
+<date nbIssue="1">1882</date>
+<date nbIssue="2">1883</date>
+<date nbIssue="1">1884</date>
+<date nbIssue="1">1885</date>
+<date nbIssue="3">1886</date>
+<date nbIssue="1">1887</date>
+<date nbIssue="1">1888</date>
+<date nbIssue="1">1889</date>
+<date nbIssue="1">1890</date>
+<date nbIssue="1">1891</date>
+<date nbIssue="1">1892</date>
+<date nbIssue="1">1893</date>
+<date nbIssue="1">1894</date>
+<date nbIssue="1">1895</date>
+<date nbIssue="1">1896</date>
+<date nbIssue="1">1897</date>
+<date nbIssue="1">1898</date>
+<date nbIssue="2">1900</date>
+<date nbIssue="1">1901</date>
+<date nbIssue="1">1902</date>
+<date nbIssue="1">1903</date>
+<date nbIssue="1">1904</date>
+<date nbIssue="1">1905</date>
+<date nbIssue="1">1906</date>
+<date nbIssue="1">1907</date>
+<date nbIssue="1">1908</date>
+<date nbIssue="1">1909</date>
+<date nbIssue="1">1910</date>
+<date nbIssue="1">1911</date>
+<date nbIssue="1">1912</date>
+<date nbIssue="1">1913</date>
+<date nbIssue="2">1914</date>
+<date nbIssue="1">1920</date>
+<date nbIssue="4">1921</date>
+<date nbIssue="1">1922</date>
+<date nbIssue="1">1923</date>
+<date nbIssue="3">1924</date>
+<date nbIssue="3">1925</date>
+<date nbIssue="4">1926</date>
+<date nbIssue="1">1927</date>
+<date nbIssue="4">1928</date>
+<date nbIssue="3">1929</date>
+<date nbIssue="4">1930</date>
+<date nbIssue="4">1931</date>
+<date nbIssue="4">1932</date>
+<date nbIssue="4">1933</date>
+<date nbIssue="3">1934</date>
+<date nbIssue="4">1935</date>
+<date nbIssue="4">1936</date>
+<date nbIssue="3">1937</date>
+<date nbIssue="4">1938</date>
+<date nbIssue="4">1939</date>
+<date nbIssue="1">1940</date>
+<date nbIssue="4">1941</date>
+<date nbIssue="1">1942</date>
+<date nbIssue="4">1943</date>
+<date nbIssue="4">1944</date>
+<date nbIssue="2">1945</date>
+<date nbIssue="1">1946</date>
+<date nbIssue="2">1947</date>
+<date nbIssue="2">1948</date>
+<date nbIssue="2">1949</date>
+<date nbIssue="2">1950</date>
+<date nbIssue="2">1951</date>
+<date nbIssue="2">1952</date>
+<date nbIssue="2">1953</date>
+<date nbIssue="2">1954</date>
+<date nbIssue="2">1955</date>
+<date nbIssue="2">1956</date>
+<date nbIssue="2">1957</date>
+<date nbIssue="2">1958</date>
+<date nbIssue="2">1959</date>
+<date nbIssue="2">1960</date>
+<date nbIssue="2">1961</date>
+<date nbIssue="2">1962</date>
+<date nbIssue="2">1963</date>
+<date nbIssue="2">1964</date>
+<date nbIssue="2">1965</date>
+<date nbIssue="3">1966</date>
+<date nbIssue="2">1967</date>
+<date nbIssue="2">1968</date>
+<date nbIssue="2">1969</date>
+<date nbIssue="2">1970</date>
+<date nbIssue="2">1971</date>
+<date nbIssue="2">1972</date>
+<date nbIssue="2">1973</date>
+<date nbIssue="2">1974</date>
+<date nbIssue="2">1975</date>
+<date nbIssue="2">1976</date>
+<date nbIssue="2">1977</date>
+<date nbIssue="2">1978</date>
+<date nbIssue="2">1979</date>
+<date nbIssue="2">1980</date>
+<date nbIssue="1">1981</date>
+<date nbIssue="1">1982</date>
+<date nbIssue="1">1983</date>
+<date nbIssue="1">1984</date>
+<date nbIssue="2">1985</date>
+<date nbIssue="1">1986</date>
+<date nbIssue="1">1987</date>
+<date nbIssue="1">1988</date>
+<date nbIssue="1">1989</date>
+<date nbIssue="1">1990</date>
+<date nbIssue="1">1991</date>
+<date nbIssue="1">1992</date>
+<date nbIssue="1">1993</date>
+<date nbIssue="1">1994</date>
+<date nbIssue="1">1995</date>
+<date nbIssue="1">1996</date>
+<date nbIssue="1">1997</date>
+<date nbIssue="1">1998</date>
+<date nbIssue="1">1999</date>
+<date nbIssue="1">2000</date>
+<date nbIssue="1">2001</date>
+<date nbIssue="1">2002</date>
+<first_indexation_date>18/11/2013</first_indexation_date>
+</results>
